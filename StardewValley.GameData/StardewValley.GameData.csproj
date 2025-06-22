@@ -12,7 +12,6 @@
   <PropertyGroup />
   <ItemGroup>
     <Reference Include="MonoGame.Framework">
-      <HintPath>..\MonoGame.Framework.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
